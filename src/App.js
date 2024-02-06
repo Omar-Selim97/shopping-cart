@@ -1,3 +1,4 @@
+import Footer from "./componenets/Footer/Footer";
 import Header from "./componenets/Header/Header";
 function App() {
   return (
@@ -7,9 +8,7 @@ function App() {
        <main>
           Our Content
        </main>
-       <footer>
-            Good-bye
-       </footer>
+      <Footer/>
       </div>
     
   );
