@@ -1,0 +1,42 @@
+[
+    {
+        "id":"id1",
+        "title":"product 1",
+        "imageUrl":"/image/mobile.jpg",
+        "desc":"This is first ptoduct",
+        "price":400,
+        "size":[
+            "S" ,"M"
+        ]
+    },
+    {
+        "id":"id2",
+        "title":"product 2",
+        "imageUrl":"/image/screen.jpg",
+        "desc":"This is second ptoduct",
+        "price":100,
+        "size":[
+            "S" ,"M","L"
+        ]
+    },
+    {
+        "id":"id3",
+        "title":"product 3",
+        "imageUrl":"/image/watch.jpg",
+        "desc":"This is third ptoduct",
+        "price":2500,
+        "size":[
+            "S" ,"L"
+        ]
+    },
+    {
+        "id":"id4",
+        "title":"product 4",
+        "imageUrl":"/image/playstation.webp",
+        "desc":"This is fourth ptoduct",
+        "price":1700,
+        "size":[
+            "L" ,"M"
+        ]
+    }
+]
